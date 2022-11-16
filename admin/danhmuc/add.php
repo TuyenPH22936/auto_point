@@ -1,4 +1,4 @@
-
+DUM_ASSIGNMENT
 <h1>Trang quan li loai hang</h1>
 <div class="container">
     <form action="index.php?act=addloaihang" method="post">
